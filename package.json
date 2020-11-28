@@ -1,0 +1,23 @@
+{
+  "name": "@maluna/porto",
+  "version": "1.0.0",
+  "description": "Core Porto Middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathlun/porto.git"
+  },
+  "keywords": [
+    "porto",
+    "porto-core"
+  ],
+  "author": "Matheus L.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mathlun/porto/issues"
+  },
+  "homepage": "https://github.com/mathlun/porto#readme"
+}
